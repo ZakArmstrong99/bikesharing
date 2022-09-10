@@ -1,5 +1,5 @@
 # bikesharing
-## Overview of the statistical analysis:
+## Overview of The Statistical Analysis:
 
 
 ## Results:
