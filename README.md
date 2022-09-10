@@ -1,5 +1,5 @@
 # bikesharing
-[link to dashboard](
+[link to dashboard](https://public.tableau.com/app/profile/zak.armstrong/viz/bikesharing_challenge_16625887953030/NYCCitibikeAnalysis?publish=yes)
 ## Overview of the statistical analysis:
 The purpose of this analysis was to visualize citibike data in August using Tablaeu. Using the data, visualizations including peak hours, average trip duration, and a heat map displaying the peak hours were created along with filters for genders. The visualizations are important as they provide information on how much the bikes are used, which could be used to convince investors that there is potential in bike sharing programs.
 
@@ -27,4 +27,4 @@ Another obervation that can be made is that more trips are done by subscribers a
 
 
 ## Summary
-
+After looking at the visualizations, there are some key observations that could convince investors that a bike sharing busisness could work well in a new area. The first observation is that the peak hours found on the peak hours bar chart and heatmap reflect the hours of the work week. This tells me that majority of citibike users are using bikes for there commute to work. An observation that confirms this is that the heat map has higher bikes rented on weekends in between 8 AM and 6 PM. This shows that citibike users use the bikes for work and when they have work off. Another observation which could interest investors is that majority of users are subscribers, which can be see on the user trips by gender by weekday heatmap. This could interest investors because subscribers are guarenteed payments coming in, which are more reliable than the payments from non-subscribers. 
